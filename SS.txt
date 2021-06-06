@@ -1,0 +1,12 @@
+http=a1.er3.xyz:29980, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港-HK01
+http=a1.ap.fastqvpn.com:29980, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港-HK02
+http=a2.ap.fastqvpn.com:29980, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港-HK03
+http=a3.ap.fastqvpn.com:29980, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港-HK04
+http=a4.ap.fastqvpn.com:29980, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港-HK05
+http=ap1-ge.er3.xyz:29984, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=德国-GE
+http=ap1-uk.er3.xyz:29987, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=英国-UK
+http=ap1-us.er3.xyz:29988, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=美国-US
+http=ap1-jp.er3.xyz:29985, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=日本-JP
+http=ap1-sg.er3.xyz:29986, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=新加坡-SG
+http=ap1-ca.er3.xyz:29983, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=加拿大-CA
+http=ap1-au.er3.xyz:29982, username=439099157454524416, password=6a671fbe-73b7-484f-aeb6-29cf5442ba6e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=澳大利亚-AU
