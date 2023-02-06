@@ -1,0 +1,58 @@
+##### avple.tv
+DOMAIN-SUFFIX, tapioni.com, reject
+#DOMAIN-SUFFIX, 107iwh.cn:4032, reject
+#DOMAIN-SUFFIX, qinhemuye.com:443, reject
+DOMAIN-SUFFIX, 107iwh.cn, reject
+DOMAIN-SUFFIX, hbhuatie.com, reject
+DOMAIN-SUFFIX, qinzhihao.com, reject
+DOMAIN-SUFFIX, nby360.com, reject
+DOMAIN-SUFFIX, tfosrv.com, reject
+DOMAIN-SUFFIX, trafforsrv.com, reject
+DOMAIN-SUFFIX, trafficforce.com, reject
+DOMAIN-SUFFIX, s.csyfe.com, reject
+
+##### missav.com
+DOMAIN-SUFFIX, creative.live.missav.com, reject
+DOMAIN-SUFFIX, cashewsforlife208.com, reject
+DOMAIN-SUFFIX, ingest.sentry, reject
+DOMAIN-SUFFIX, phloxsub73ulata.com, reject
+DOMAIN-SUFFIX, xxxjmp.com, reject
+DOMAIN-SUFFIX, pitrespite.com, reject
+DOMAIN-SUFFIX, alexametrics.com, reject
+DOMAIN-SUFFIX, designslicensedeep.com, reject
+DOMAIN-SUFFIX, a.bestcontentfood.top, reject
+DOMAIN-SUFFIX, tsyndicate.com, reject
+DOMAIN-SUFFIX, cashewsforlife208.com, reject
+DOMAIN-SUFFIX, e67repidwnfu7gcha.com, reject
+DOMAIN-SUFFIX, mc7clurd09pla4nrtat7ion.com, reject
+DOMAIN-SUFFIX, e67repidwnfu7gcha.com, reject
+DOMAIN-SUFFIX, wuzbhjpvsf.com, reject
+DOMAIN-SUFFIX, a.realsrv.com, reject
+
+##### Jable.tv 
+DOMAIN-SUFFIX, a.shukriya90.com, reject
+DOMAIN-SUFFIX, a.shukriya90.com, reject
+DOMAIN-SUFFIX, creative.xlviirdr.com, reject
+DOMAIN-SUFFIX, realsrv.com, reject
+DOMAIN-SUFFIX, asewlfjqwlflkew.com, reject
+DOMAIN-SUFFIX, uus52.com, reject
+DOMAIN-SUFFIX, uus58.com, reject
+DOMAIN-SUFFIX, ddmax20.xyz, reject
+DOMAIN-SUFFIX, ads.exosrv.com, reject
+DOMAIN-KEYWORD, exosrv, reject
+DOMAIN-KEYWORD, asewlfjqwlflkew, reject
+DOMAIN-SUFFIX, tyrantdb.com, reject
+DOMAIN-SUFFIX, adserve.work, reject
+
+##### avgle.me  
+DOMAIN-SUFFIX, jads.co, reject
+DOMAIN-SUFFIX, adxadserv.com, reject
+DOMAIN-SUFFIX, moatads.com, reject
+DOMAIN-SUFFIX, juicyads.in, reject
+DOMAIN-SUFFIX, dtscout.com, reject
+
+##### pornhub.com  
+DOMAIN-SUFFIX, etahub.com, reject
+DOMAIN-SUFFIX, evtubescms.phncdn.com, reject
+
+
